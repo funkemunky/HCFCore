@@ -1,0 +1,80 @@
+disable_obsidian_generators: true
+server_time_zone: EST
+warzone_radius: 650
+donate_url: store.hcriots.net
+spawn_buffer: 128
+map_number: 1
+kit_map: false
+disallowed_faction_names:
+- kohieotw
+- kohisotw
+- hcteams
+- hcteamsseotw
+- hcteamssotw
+- para
+- parahcf
+- parasotw
+- paraeotw
+enchantment_limits:
+  PROTECTION_ENVIRONMENTAL: 2
+  DAMAGE_ALL: 1
+  ARROW_KNOCKBACK: 0
+  KNOCKBACK: 0
+  FIRE_ASPECT: 0
+  THORNS: 0
+  ARROW_FIRE: 1
+  ARROW_DAMAGE: 3
+potion_limits:
+  STRENGTH: 0
+  WEAKNESS: 0
+  SLOWNESS: 0
+  INVISIBILITY: 0
+  POISON: 0
+road_lengths:
+  NORMAL: 4000
+  NETHER: 4000
+border_sizes:
+  NORMAL: 3000
+  NETHER: 2000
+  THE_END: 1500
+spawn_radius_map:
+  NORMAL: 50
+  NETHER: 25
+  THE_END: 15
+diamond_ore_alerts: false
+subclaim_name_characters_min: 3
+subclaim_name_characters_max: 16
+faction_name_characters_min: 3
+faction_name_characters_max: 16
+max_members_per_faction: 15
+road_distance: 2500
+road_min_height: 0
+road_max_height: 256
+end_portal_radius: 20
+end_portal_center: 750
+default_deathban_duration: 3600000
+teammate_colour: GREEN
+ally_colour: LIGHT_PURPLE
+enemy_colour: YELLOW
+safezone_colour: AQUA
+road_colour: GOLD
+warzone_colour: RED
+wilderness_colour: GREEN
+scoreboard_title: '&c&lHCRiots &7[Map %MAP_NUNMBER%]   '
+max_allies_per_faction: 1
+max_claims_per_faction: 8
+allow_claiming_besides_roads: false
+dtr_millis_between_updates: 45000
+dtr_increment_between_updates: 0.1
+maximum_dtr: 6.0
+exp_multiplier_general: 2.0
+exp_multiplier_fishing: 2.0
+exp_multiplier_smelting: 2.0
+exp_multiplier_looting_per_level: 6.0
+exp_multiplier_luck_per_level: 1.5
+exp_multiplier_fortune_per_level: 1.5
+conquest_point_loss_per_death: 30
+conquest_required_win_points: 300
+found_diamonds_alerts: true
+combat_log_despawn_ticks: 600
+combat_log_prevention_enabled: true
